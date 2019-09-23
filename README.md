@@ -1,4 +1,4 @@
-# Music-Genre-Recongition-Project
+# Music-Genre-Recognition-Project
 
 Automated Music Genre Recognition has been a challenging and interesting problem in the field of Music Information Retrieval that is yet to be resolved. 
 Having read a variety of papers that present their approaches to the task at hand, it was apparent that there is a potential for an improvement of the current algorithms deployed for this classification task. 
