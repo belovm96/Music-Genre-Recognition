@@ -1,5 +1,6 @@
-# Music-Genre-Recognition-Project
+# Music Genre Recognition Research Project
 
+## Motivation & Objective
 Automated Music Genre Recognition has been a challenging and interesting problem in the field of Music Information Retrieval that is yet to be resolved. 
 Having read a variety of papers that present their approaches to this MIR task, it was apparent that there is a potential for an improvement of the current algorithms deployed for this classification problem. 
 Moreover, most of classification results presented in these papers are neither impressive nor compelling which served as a motivation for contributing to this area of MIR. 
