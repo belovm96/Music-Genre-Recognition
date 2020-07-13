@@ -1,5 +1,5 @@
 # Music Genre Recognition Research Project
-In this project, I proposed a Convolutiona Neural Network architecture trained on the data from GTZAN & FMA datasets that achieves 70% accuracy recognizing 10 music genres.
+In this project, I proposed a Convolutional Neural Network architecture trained on the data from GTZAN & FMA datasets that achieves 70% accuracy recognizing 10 music genres.
 
 ## Motivation & Objective
 Automated Music Genre Recognition has been a challenging and interesting problem in the field of Music Information Retrieval that is yet to be resolved. 
@@ -18,4 +18,7 @@ The goals of this research project are to determine which of the three features 
 * Built a Convolutional Neural Network of the architecture described in the project report and trained it on the extracted features
 * Analyzed the performance of the proposed CNN architecture using accuracy and confusion matrix metrics, and provided a discussion on the project's outcomes and potential improvements
 
+## Frameworks & Tools
+**Languages:** Python 3.6
+**Libraries:** PyTorch, LibROSA, Pandas, NumPy, H5Py, Scikit-learn, Matplotlib
 
