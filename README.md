@@ -19,6 +19,6 @@ The goals of this research project are to determine which of the three features 
 * Analyzed the performance of the proposed CNN architecture using accuracy and confusion matrix metrics, and provided a discussion on the project's outcomes and potential improvements
 
 ## Frameworks & Tools
-**Languages:** Python 3.6
-  **Libraries:** PyTorch, LibROSA, Pandas, NumPy, H5Py, Scikit-learn, Matplotlib
+* **Languages:** Python 3.6
+* **Libraries:** PyTorch, LibROSA, Pandas, NumPy, H5Py, Scikit-learn, Matplotlib
 
