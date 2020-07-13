@@ -10,4 +10,6 @@ With Deep Learning emerging as one of the most popular and promising Machine Lea
 In this project, a novel Convolutional Neural Network Architecture is proposed, and its performance is evaluated on three audio music features: tempogram, chroma frequencies, and spectrogram. 
 The goals of this research project are to determine which of the three features yields best classification performance on the proposed CNN, and to provide a discussion on the reasons why certain music attributes are more meaningful for discerning music genres than others.
 
-Project Report can be found in the current repository.
+## Project Recap
+
+
