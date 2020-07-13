@@ -1,5 +1,6 @@
 # Music Genre Recognition Research Project
 
+
 ## Motivation & Objective
 Automated Music Genre Recognition has been a challenging and interesting problem in the field of Music Information Retrieval that is yet to be resolved. 
 Having read a variety of papers that present their approaches to this MIR task, it was apparent that there is a potential for an improvement of the current algorithms deployed for this classification problem. 
@@ -11,5 +12,10 @@ In this project, a novel Convolutional Neural Network Architecture is proposed, 
 The goals of this research project are to determine which of the three features yields best classification performance on the proposed CNN, and to provide a discussion on the reasons why certain music attributes are more meaningful for discerning music genres than others.
 
 ## Project Recap
+* Downloaded GTZAN and FMA (small) datasets
+* Generated spectrogram, tempogram and chroma audio features from the 30-second song snippets presented in the two datasets
+* Performed feature engineering on the extracted features to capture music genre discepancies
+* Built a Convolutional Neural Network of the architecture described in the project report and trained it on the extracted features
+* Analyzed the performance of the proposed CNN architecture using accuracy and confusion matrix, and provided a discussion on the project's outcomes and potential improvements
 
 
