@@ -20,6 +20,5 @@ The goals of this research project are to determine which of the three features 
 
 ## Frameworks & Tools
 **Languages:** Python 3.6
-
-**Libraries:** PyTorch, LibROSA, Pandas, NumPy, H5Py, Scikit-learn, Matplotlib
+  **Libraries:** PyTorch, LibROSA, Pandas, NumPy, H5Py, Scikit-learn, Matplotlib
 
